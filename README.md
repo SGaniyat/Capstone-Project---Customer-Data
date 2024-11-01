@@ -83,7 +83,7 @@ where Subscription_Duration > 365
 Group by CustomerName
 Order by 2 desc
  ```
-![find customers with subscriptions longer than 12 months.]()
+![find customers with subscriptions longer than 12 months.](https://github.com/SGaniyat/Capstone-Project---Customer-Data/blob/8381e12046a10e7c00c40a1f7943ee24784640d3/Sub%20over%2012months.png)
 
 7.Calculate total revenue by subscription type
 ```SQL
