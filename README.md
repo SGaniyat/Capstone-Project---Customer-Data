@@ -122,3 +122,19 @@ FROM  [dbo].[LITA_CApstones Customerdata]
 GROUP BY SubscriptionType
  ```
 ![find the total number of active and canceled subscriptions.](https://github.com/SGaniyat/Capstone-Project---Customer-Data/blob/2bab10a2b8ccb952bdb7d700529550198da4b0b3/Active%20and%20Canceled%20Sub.png)
+
+
+
+
+## Using Power BI as a Data Analysis tool
+Steps
+<ol type="i">
+<li> From Canvas click on Get Data and import your data </li>
+<li> Select data and click on Transform data.</li>
+<li>Remove duplicate data by selecting your entire column and click 'delect duplicate rows.</li>
+<li>Select Table view add Column for Subscription duration by Click on New Column and enter the formular
+    Datediff(SubscriptionEnd,SubscriptionEnd,Month).</li>
+    
+
+
+</ol>
