@@ -58,10 +58,14 @@ total revenue by region.</h3><br/>
    <li>Create your data summary accordingly to the specification end result </li>
      </ol>
 
-![image](https://github.com/user-attachments/assets/75643e03-5c45-48bf-bc8b-f4b96dc3cdda)
+![image](https://github.com/user-attachments/assets/75643e03-5c45-48bf-bc8b-f4b96dc3cdda),
+
 ![image](https://github.com/user-attachments/assets/d9eee800-fbdd-4874-a3f0-7ff2dd8cfb7f)
+
 ![image](https://github.com/user-attachments/assets/afc30307-2b6d-4694-98e4-af7601cb4722)
+
 ![image](https://github.com/user-attachments/assets/0851753c-be32-4ca0-b334-309aa426e341)
+
 ![image](https://github.com/user-attachments/assets/701d9659-d273-4719-9845-bb98660c5a6f)
 
 
@@ -72,7 +76,7 @@ total revenue by region.</h3><br/>
 
 
 
-     Dashboard 
+     Create an Interative Dashboard 
 ![image](https://github.com/user-attachments/assets/2be2ab2b-7168-4136-9a9d-66d24ccfa5fa)
 ![image](https://github.com/user-attachments/assets/cdaf9588-4ed1-4ead-affa-a33dcd318645)
 
