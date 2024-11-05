@@ -51,6 +51,24 @@ total revenue by region.</h3><br/>
 ```
 ![image](https://github.com/user-attachments/assets/c5d2299d-728c-4622-a135-1c0eb488b839)
 
+<h3>3. Data Analysis by Pivot table for data Summary</h3>  
+     <ol type="i"> 
+   <li>Select all data by Ctrl+ A and click on  Insert on the Ribbon</li>
+  <li> Select PivotTable and TableRange. fill approprately. </li>
+   <li>Create your data summary accordingly to the specification end result </li>
+     </ol>
+
+![image](https://github.com/user-attachments/assets/2be2ab2b-7168-4136-9a9d-66d24ccfa5fa)
+
+
+
+
+
+
+
+
+
+
 
      
 ### Using SQL as a Data Analysis tool.
