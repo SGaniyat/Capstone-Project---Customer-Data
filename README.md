@@ -32,7 +32,7 @@ total revenue by region.</h3><br/>
 
 2.Customer Count by Region</h3><br/>
 ```Excel
-=sUMIF((range,criteria[sum_range])</h3><br/>
+=SUMIF((range,criteria[sum_range])</h3><br/>
 ```
 ![image](https://github.com/user-attachments/assets/b625c4dc-5cea-4f84-9e15-f6264599155d)
 
@@ -40,11 +40,16 @@ total revenue by region.</h3><br/>
 
 3.Total Revenue</h3><br/>
 ```Excel
-=sUM(Range)</h3><br/>
+=SUM(Range)</h3><br/>
 ```
-Total Revenue
 ![image](https://github.com/user-attachments/assets/e46c15b5-bdf8-4ca7-87db-d6258004b38d)
 
+
+3.Revenue by Subscription Type</h3><br/>
+```Excel
+=SUMIF((range,criteria[sum_range])</h3><br/>
+```
+![image](https://github.com/user-attachments/assets/c5d2299d-728c-4622-a135-1c0eb488b839)
 
 
      
