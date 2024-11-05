@@ -38,6 +38,12 @@ total revenue by region.</h3><br/>
 
 
 
+3.Total Revenue</h3><br/>
+```Excel
+=sUM(Range)</h3><br/>
+```
+![image](https://github.com/user-attachments/assets/9e924720-1835-415e-aae0-64f791eddd3a)
+
 
      
 ### Using SQL as a Data Analysis tool.
