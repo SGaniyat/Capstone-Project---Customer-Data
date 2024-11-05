@@ -7,6 +7,9 @@ This project involves analyzing customer data for a subscription service to iden
 - SQL
 - Power BI
 
+
+
+
 ## Using Microsoft Excel as a Data Analysis tool
 Steps
 <h3>1. Data cleaning </h3><br/>
@@ -184,6 +187,9 @@ FROM  [dbo].[LITA_CApstones Customerdata]
 GROUP BY SubscriptionType
  ```
 ![find the total number of active and canceled subscriptions.](https://github.com/SGaniyat/Capstone-Project---Customer-Data/blob/2bab10a2b8ccb952bdb7d700529550198da4b0b3/Active%20and%20Canceled%20Sub.png)
+
+
+
 
 
 
