@@ -30,6 +30,11 @@ total revenue by region.</h3><br/>
 
 
 
+2.Customer Count by Region</h3><br/>
+```Excel
+=sUMIF((range,criteria[sum_range])</h3><br/>
+```
+![image](https://github.com/user-attachments/assets/b625c4dc-5cea-4f84-9e15-f6264599155d)
 
 
 
