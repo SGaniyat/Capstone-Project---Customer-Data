@@ -84,7 +84,7 @@ total revenue by region.</h3><br/>
 
 
 
-https://github.com/SGaniyat/Capstone-Project---Customer-Data/blob/6f92e729279b7df9146100b5e7a84e73d92fa913/Customer%20Chart.pdf
+[Interactive Dashboard](https://github.com/SGaniyat/Capstone-Project---Customer-Data/blob/6f92e729279b7df9146100b5e7a84e73d92fa913/Customer%20Chart.pdf)
 
 
 
