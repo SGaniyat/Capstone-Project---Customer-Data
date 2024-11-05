@@ -42,7 +42,9 @@ total revenue by region.</h3><br/>
 ```Excel
 =sUM(Range)</h3><br/>
 ```
-![image](https://github.com/user-attachments/assets/9e924720-1835-415e-aae0-64f791eddd3a)
+Total Revenue
+![image](https://github.com/user-attachments/assets/e46c15b5-bdf8-4ca7-87db-d6258004b38d)
+
 
 
      
