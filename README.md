@@ -25,6 +25,7 @@ total revenue by region.</h3><br/>
 1.Subscription Average Duration</h3><br/>
 ```Excel
 =average(Range)
+```
 ![image](https://github.com/user-attachments/assets/67a09fb3-b3d6-4a4c-8f0b-e573a1642b39)
 
 
