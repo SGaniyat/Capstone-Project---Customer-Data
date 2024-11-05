@@ -77,7 +77,7 @@ total revenue by region.</h3><br/>
 
 
      Create an Interative Dashboard 
-     ![image](https://github.com/user-attachments/assets/a0ccd9c0-0520-4941-8057-6e29157d120e)
+![image](https://github.com/user-attachments/assets/a0ccd9c0-0520-4941-8057-6e29157d120e)
 ![image](https://github.com/user-attachments/assets/2be2ab2b-7168-4136-9a9d-66d24ccfa5fa)
 ![image](https://github.com/user-attachments/assets/cdaf9588-4ed1-4ead-affa-a33dcd318645)
 
