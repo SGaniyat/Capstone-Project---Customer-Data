@@ -203,6 +203,6 @@ Steps
 <li>Select Table view add Column for Subscription duration by Click on New Column and enter the formular
     Datediff(SubscriptionEnd,SubscriptionEnd,Month).</li>
     
-
-
+# Customer Performannce Analysis Dashboard
+![Customer Performannce Analysis Dashboard](https://github.com/SGaniyat/Capstone-Project---Customer-Data/blob/3fab80efeddd984f26bf466afba4a66b12f260ed/Customer%20Data%20BI.pdf)
 </ol>
