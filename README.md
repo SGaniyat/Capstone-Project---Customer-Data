@@ -213,6 +213,9 @@ Steps
 <li>Remove duplicate data by selecting your entire column and click 'delect duplicate rows.</li>
 <li>Select Table view add Column for Subscription duration by Click on New Column and enter the formular
     Datediff(SubscriptionEnd,SubscriptionEnd,Month).</li>
+    <li> Click on Close and apply.</li> 
+    <li>Click on Home and go to your  Report view.</li>
+    <li>Build your interactive dashboard .</li>
     
 # Customer Performannce Analysis Dashboard
 ![Customer Performannce Analysis Dashboard](https://github.com/SGaniyat/Capstone-Project---Customer-Data/blob/875408210f93779344c5e2990851dd28330deca3/Customer%20Data%20BI.png)
