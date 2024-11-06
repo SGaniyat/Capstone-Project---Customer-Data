@@ -1,4 +1,21 @@
-# Capstone-Project---Customer-Data
+# Capstone Project: Customer Data Performance Analysis Report
+
+
+### Table of Content
+
+<nav>
+<ul>
+<li><a href="#Section1">Overview</a></li>
+<li><a href="#Section2">Using Microsoft Excel as a Data Analysis tool</a></li>
+<li><a href="#Section2">Using SQL as a Data Analysis tool</a></li>
+<li></li>
+<li></li>
+
+    
+</ul>    
+</nav>
+
+<h2 id="Section1">Overview</h2>
 This project involves analyzing customer data for a subscription service to identify segments and trends. The goal is to understand customer behavior, track subscription types, and identify key trends in cancellations and renewals. The final deliverable is a Power BI dashboard that presents the analysis.
 
 
@@ -10,7 +27,7 @@ This project involves analyzing customer data for a subscription service to iden
 
 
 
-## Using Microsoft Excel as a Data Analysis tool
+<h2 id="Section2"> Using Microsoft Excel as a Data Analysis tool</h2>
 Steps
 <h3>1. Data cleaning </h3><br/>
     <ol type="i"> 
@@ -94,8 +111,8 @@ total revenue by region.</h3><br/>
 
 
 
-     
-### Using SQL as a Data Analysis tool.
+
+### <h2 id="Section2">Using SQL as a Data Analysis tool</h2>
 Steps
 <ol type="i">
 <li> Cleaning data in excel and save file in CSV.</li>
