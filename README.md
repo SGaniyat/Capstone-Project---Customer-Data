@@ -193,7 +193,6 @@ GROUP BY SubscriptionType
 
 
 
-
 ## Using Power BI as a Data Analysis tool
 Steps
 <ol type="i">
@@ -204,5 +203,5 @@ Steps
     Datediff(SubscriptionEnd,SubscriptionEnd,Month).</li>
     
 # Customer Performannce Analysis Dashboard
-![Customer Performannce Analysis Dashboard](https://github.com/SGaniyat/Capstone-Project---Customer-Data/blob/3fab80efeddd984f26bf466afba4a66b12f260ed/Customer%20Data%20BI.pdf)
+![Customer Performannce Analysis Dashboard](https://github.com/SGaniyat/Capstone-Project---Customer-Data/blob/875408210f93779344c5e2990851dd28330deca3/Customer%20Data%20BI.png)
 </ol>
