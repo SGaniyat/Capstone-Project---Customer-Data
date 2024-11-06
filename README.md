@@ -207,8 +207,6 @@ GROUP BY SubscriptionType
 
 
 
-
-
 ### <h2 id="Section2"> Using Power BI  as a Data Analysis tool</h2>
 Steps
 <ol type="i">
