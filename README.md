@@ -94,12 +94,9 @@ total revenue by region.</h3><br/>
 
 
 
-
-
      Create an Interative Dashboard 
-![image](https://github.com/user-attachments/assets/a0ccd9c0-0520-4941-8057-6e29157d120e)
-![image](https://github.com/user-attachments/assets/2be2ab2b-7168-4136-9a9d-66d24ccfa5fa)
-![image](https://github.com/user-attachments/assets/cdaf9588-4ed1-4ead-affa-a33dcd318645)
+   ![ Interative Dashboard ](https://github.com/SGaniyat/Capstone-Project---Customer-Data/blob/5e04c1b73e68f6539a3e0e8a8606d834044defe7/Customer%20performance%20%20excel%20Dashboard.png)
+
 
 
 
