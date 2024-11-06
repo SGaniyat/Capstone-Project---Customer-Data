@@ -111,8 +111,7 @@ total revenue by region.</h3><br/>
 
 
 
-
- <h2 id="Section2">Using SQL as a Data Analysis tool</h2>
+ <h2 id="Section3">Using SQL as a Data Analysis tool</h2>
 Steps
 <ol type="i">
 <li> Cleaning data in excel and save file in CSV.</li>
@@ -206,7 +205,7 @@ GROUP BY SubscriptionType
 ![find the total number of active and canceled subscriptions.](https://github.com/SGaniyat/Capstone-Project---Customer-Data/blob/2bab10a2b8ccb952bdb7d700529550198da4b0b3/Active%20and%20Canceled%20Sub.png)
 
 
- <h2 id="Section2"> Using Power BI  as a Data Analysis tool</h2>
+ <h2 id="Section4"> Using Power BI  as a Data Analysis tool</h2>
 Steps
 <ol type="i">
 <li> From Canvas click on Get Data and import your data </li>
